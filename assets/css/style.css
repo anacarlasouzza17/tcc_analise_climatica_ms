@@ -1112,3 +1112,8 @@ section {
   justify-content: center;
   align-items: center;
 }
+
+.img-formula {
+  width: auto;
+  height: auto;
+}
