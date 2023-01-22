@@ -1114,6 +1114,30 @@ section {
 }
 
 .img-formula {
-  width: auto;
-  height: auto;
+  height: 380px;
+  display: block;
+  margin: 5px auto;
+}
+
+@media (min-width: 1200px) {
+  #hero .hero-container {
+    margin-left: 350px;
+  }
+}
+
+#header {
+	width: 275px;
+}
+#main {
+	margin-left: 275px;
+
+}
+
+#main section {
+	padding: 0 25px;
+  text-align: justify;
+}
+.portfolio-item .portfolio-wrap .img-fluid {
+object-fit: cover;
+height: 250px;
 }
