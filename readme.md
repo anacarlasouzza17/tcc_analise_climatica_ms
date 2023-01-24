@@ -43,9 +43,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Créditos do projeto:
 - [Template iPortfolio] (https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
 - [fontAwesome] (https://fontawesome.io)
+- [depositphotos] (https://br.depositphotos.com/stock-photos/campo-grande.html) (imagem de Campo Grande)
+- [giua de turismo Brasil] (https://www.guiadoturismobrasil.com/cidade/MS/437/agua-clara) ( imagem  de Água Clara)
+- [nosso ms] (https://nossoms.com.br/municipio/aquidauana/) (imagem de Aquidauana)
+- [ecoa] (https://ecoa.org.br/corumba-mato-grosso-do-sul/) (imagem de Corumbá)
+- [Acritica.Net] (https://www.acritica.net/editorias/geral/ (concurso-prefeitura-brasilandia-esta-com-as-inscricoes-abertas500402/) (imagem de Brasilândia)
+- [Wikipedia] (https://pt.wikipedia.org/wiki/Bela_Vista) (imagem de Bela Vista)
+- [Acritica.Net] (https://www.acritica.net/editorias/cultura/bataguassu-a-vida-aqui-e-um-aprendizado-5402/482600/) (imagem Bataguassu)
+- [Acquaviagens] (https://www.acquaviagens.com.br/dicas-de-viagem-em-bonito-ms/onde-fica-a-cidade-de-bonito/236/)
+- [giua de turismo Brasil] (https://www.guiadoturismobrasil.com/cidade/MS/443/cassilandia) (imagem cassilândia)
+- [sebrae] (https://www.google.com.br/url?sa=i&url=https%3A%2F%2Fsebrae.ms%2Fempreendedorismo%2Fcasos-de-sucesso%2Fprosperidade-em-chapadao-do-sul-vai-alem-da-agricultura%2F&psig=AOvVaw1LV1XDZDs_2S6VCsWaf6Et&ust=1674603033964000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOimitvs3vwCFQAAAAAdAAAAABAi)(imagem chapadão do sul)
+-[] ()
+ 
 
 ---
 ## 💪 Como acessar o site desenvolvido 
 Você pode acessar a página do projeto, por meio do seguinte link: 
 [https://anacarlasouzza17.github.io/tcc_analise_climatica_ms/](https://anacarlasouzza17.github.io/tcc_analise_climatica_ms/)
+
 
