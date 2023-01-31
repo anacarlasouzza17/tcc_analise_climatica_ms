@@ -1141,3 +1141,11 @@ section {
 object-fit: cover;
 height: 250px;
 }
+.portfolio-details-slider img{
+  object-fit: contain !important;
+  max-height: 500px !important;
+}
+.nav-menu a svg {
+    padding-right: 8px;
+    margin-left: 3px;
+}
