@@ -131,7 +131,7 @@ h3 {
 }
 
 #main {
-  margin-left: 300px;
+  margin-left: 275px;
 }
 
 @media (max-width: 1199px) {
@@ -140,7 +140,7 @@ h3 {
   }
 
   #main {
-    margin-left: 0;
+    margin-left: 0 !important;
   }
 }
 
@@ -1127,10 +1127,6 @@ section {
 
 #header {
 	width: 275px;
-}
-#main {
-	margin-left: 275px;
-
 }
 
 #main section {
